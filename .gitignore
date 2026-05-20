@@ -1,1 +1,7 @@
+*.o
+*.out
+
+# specific compiled programs
 testfile
+os
+test_hw2
